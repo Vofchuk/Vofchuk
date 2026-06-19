@@ -85,8 +85,8 @@ const daniel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vofchuk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=A0F0E0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vofchuk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=A0F0E0&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vofchuk&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=C9F7EE&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vofchuk&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9F7EE&border_radius=12&langs_count=8"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vofchuk&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
 
